@@ -19,3 +19,7 @@ Model Evaluation: Visualized the relationship between actual and predicted value
 Prescriptive Logic: Implemented a rule-based function to provide real-time HVAC adjustment commands (Decrease/Increase/Maintain) based on the model's output.
 
 Final Conclusion The system successfully bridges the gap between predictive modeling and real-world application, providing a scalable solution for smart building energy management.
+
+![Results](./result.png)
+
+
